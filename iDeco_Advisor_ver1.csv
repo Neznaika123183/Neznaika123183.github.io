@@ -1,0 +1,5 @@
+item_id,base_fund_id,base_fund_name,candidate_fund_id,candidate_name,base_index,candidate_index,index_comparison,trust_fee_comparison,decision_code,decision_label,reason,evaluated_at
+1,F001,eMAXIS Slim 米国株式（S&P500),F002,SBI・V・S&P500,S&P500,S&P500,,,,,,
+2,F003,eMAXIS Slim 全世界株式（除く日本）,F004,ニッセイ 外国株式インデックス,MSCI ACWI,MSCI Kokusai,,,,,,
+3,F005,eMAXIS Slim 先進国債券インデックス,F006,大和DC外国債券インデックス,FTSE World Government Bond Index (ex-Japan),FTSE World Government Bond Index (ex-Japan),,,,,,
+4,F007,eMAXIS Slim 国内株式（TOPIX）,F008,ニッセイ TOPIX インデックスファンド,TOPIX,TOPIX,,,,,,
